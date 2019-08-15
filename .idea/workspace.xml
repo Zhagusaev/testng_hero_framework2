@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa86c6b-166f-4c60-b0ae-94a66854e124" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FacebookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Instagram_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/WebOrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/WebOrdersLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RobotIntro/RobotIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RobotIntro/RobotIntro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/DataProvider_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/Iframe_homeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/Iframe_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/LoginTest_dataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/OrdersTest_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/PropertiesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/javascriptexecutor_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FaceBook_testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Instagram_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/TestingNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/PropertiesFileIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/ScreenshotIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/DataTableStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/GoogleSearchStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/KayakFlightBookingDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/MultipleChoicesStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefs/MyFirstCucumberFeatureStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/credentials.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DataTables.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/GoogleSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Instagram.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/KayakFlightSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Multiplechoices.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/MyFirstCucumberFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webOrder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ActionPractice/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ActionPractice/DragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Automationwebsite_page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Automationwebsite_page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Select_Practice/SelectClass_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Select_Practice/SelectClass_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNG_intro/Alerts_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/Alerts_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNG_intro/Paralel_Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/Paralel_Testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNG_intro/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNG_intro/html_popup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNG_intro/html_popup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/AutomationPractice_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/AutomationPractice_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/ContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/ContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/xpedia_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/xpedia_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Window_Practice/window_herokuapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Window_Practice/window_herokuapp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Window_Practice/window_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Window_Practice/window_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Window_Practice/window_rocketLawyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Window_Practice/window_rocketLawyer.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cucumber</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PSvu8E91IZuroVFJPpaa9dtNJw" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest_dataProvider">
+    <configuration name="PropertiesFileIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utilities.PropertiesFileIntro" />
+      <module name="testng_hero_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvider_practice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_hero_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_intro.DataProvider_practice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest_dataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_hero_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_intro.LoginTest_dataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest_dataProvider.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_hero_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_intro.LoginTest_dataProvider" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenshotIntro" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_hero_framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Utilities" />
+      <option name="MAIN_CLASS_NAME" value="Utilities.ScreenshotIntro" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest_dataProvider" />
+        <item itemvalue="TestNG.LoginTest_dataProvider.loginTest" />
+        <item itemvalue="TestNG.DataProvider_practice" />
+        <item itemvalue="TestNG.ScreenshotIntro" />
+        <item itemvalue="Application.PropertiesFileIntro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa86c6b-166f-4c60-b0ae-94a66854e124" name="Default Changelist" comment="" />
+      <created>1561249471889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561249471889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ScreenshotIntro - 2019.07.02 at 00h 05m 25s.xml">
+      <configuration name="ScreenshotIntro" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ScreenshotIntro - 2019.07.02 at 00h 06m 14s.xml">
+      <configuration name="ScreenshotIntro" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ScreenshotIntro - 2019.07.02 at 00h 40m 19s.xml">
+      <configuration name="ScreenshotIntro" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataProvider_practice - 2019.07.19 at 16h 44m 44s.xml">
+      <configuration name="DataProvider_practice" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider_loginTest - 2019.07.19 at 16h 51m 19s.xml">
+      <configuration name="LoginTest_dataProvider.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider - 2019.07.19 at 16h 51m 33s.xml">
+      <configuration name="LoginTest_dataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider - 2019.07.19 at 16h 52m 24s.xml">
+      <configuration name="LoginTest_dataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider - 2019.07.19 at 16h 52m 37s.xml">
+      <configuration name="LoginTest_dataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider - 2019.07.19 at 16h 53m 11s.xml">
+      <configuration name="LoginTest_dataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_dataProvider - 2019.07.19 at 16h 53m 56s.xml">
+      <configuration name="LoginTest_dataProvider" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

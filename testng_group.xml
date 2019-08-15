@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Testng Group">
+
+
+    <test name="Testng Group Practice">
+        <groups>
+            <run>
+                <include name="xpedia"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="Tests.ContactTest"></class>
+            <class name="Tests.xpedia_test"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

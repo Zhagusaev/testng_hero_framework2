@@ -1,0 +1,24 @@
+
+Implicit Wait
+- it will wait all element on the page to be loaded.
+- if elements are not visible, it will throw NoSuchElementException.
+
+Explicit Wait
+- We will wait certain page element for some condition.
+- to be visible, to be clicable, alertisPresent.
+- We will give the time.
+- If Selenium is not able to find the element it will throw timeOutException.
+
+Alerts
+
+We have three kinds of alert
+1- Operation System Alert
+Selenium can not handle OS alerts. We need to use third party tools like AutoIT, Robot Framework.
+2- JavaScript alert
+Selenium can handle javascript alerts using Alert class. We can accept or decline this kind of alerts.
+3- HTML based alert
+Selenium can handle HTML alert using webelements.
+
+Hard Assertion
+If assertion will fail. My test execution will not go
+to the next line. It will directly stop exection and it will throw the exception.

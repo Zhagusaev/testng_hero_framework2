@@ -1,0 +1,25 @@
+TestNG is testing framework
+@Test
+@BeforeMethod
+@AfterMethod
+@BeforeClass
+@AfterClass
+
+@Test annotation will run alphatical order.
+priority= makes the test annotation new order. It start from 1.
+
+enabled= if enabled=false, our code will not executed.
+if it is true it will run.
+
+Action class
+clickAndHold
+Release
+perform
+isDisplayed
+
+
+Implicit wait:
+driver.manage().timeOuts().implicitlyWait(5, TimeUnits.Seconds);
+It will wait for all page elements to be loaded.
+If element not loaded within this timeseconds, It will throw NoSuchElementException.
+
